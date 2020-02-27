@@ -21,7 +21,7 @@ https://hyrama.com/?p=693
  - https://hyrama.com/?p=693
  - https://stophyun.tistory.com/199
 
-3. 내가 시도했던 방식
+3. 내가 시도했던 방식 ( 위에껄 따라했다고 따라했지만 안됨 )
 
 ```java
 
