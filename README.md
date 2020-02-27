@@ -7,3 +7,5 @@ headless란
 우분투 같은 경우에 화면자체가 존재하지 않기 때문에 일반적인 방식으로는 크롬을 쓸 수 없다.
 이를 해결해 주는 방식이 Headless 모드이다.
 
+Selenium chrome driver 네이버 캡차(Captcha) 무력화
+https://hyrama.com/?p=693
