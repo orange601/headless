@@ -21,7 +21,6 @@ https://hyrama.com/?p=693
  - https://stophyun.tistory.com/199
  - 기존 방식은 selenium의 sendKeys메서드를 이용한 입력방식이었다.
  - 구글링해서 나온 방식은 clipboard 기능을 이용해서 복 붙 기능을 활용하면 selenium을 인식을 못한다는거였다.
- - 캡차를 뚫는 방법들이 구글링하면 나오지만 테스트해본 결과 안된다.
 
 3. 내가 시도했던 방식 ( 위에껄 따라했다고 따라했지만 안됨 )
 
